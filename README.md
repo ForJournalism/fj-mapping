@@ -10,26 +10,26 @@ By the end of the course the student will have done at least 2 forms of analysis
 
 # I. The basics
 
-## * Obtaining and understanding geo data
+## 1. Obtaining and understanding geo data
 
 * Where do you find it?
 * Formats
 * Projections
 
-## * Creating your own
+## 2. Creating your own
 
 * Geocoding
 * Merging data
 
 # II. Simple spatial analysis
 
-## * Tools
+## 3. Tools
 
 * PostGIS
 * QGIS
 * ArcGIS
 
-## * Analysis: Buffers
+## 4. Analysis: Buffers
 
 * Nuclear plants? 
 * Pedophiles and parks? 

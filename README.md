@@ -6,15 +6,30 @@ journalism toolkit. In this course you'll learn how to obtain geographic data,
 how to run common types of analysis, and how to publish that analysis online
 in a clear and appropriate way.
 
-By the end of the course the student will have done at least 2 forms of analysis with resulting data nuts for stories. They will also have created at least 2 online maps using that data, plus one simple point map using geocoded data.
+By the end of the course the student will have done at least 2 forms of
+analysis with resulting data nuts for stories. They will also have created at 
+least 2 online maps using that data, plus one simple point map using geocoded 
+data.
 
 # I. The basics
 
 ## 1. Obtaining and understanding geo data
 
-* Where do you find it?
-* Formats
+* What is it?
+    * Lat / Lon
+    * Lines and linestrings
+    * Polygons
 * Projections
+    * The world is not flat
+    * What is a projection?
+    * Common projections and when to use them
+* Formats
+    * CSV
+    * SHP
+    * GeoJSON
+    * WKT/WKB
+* Where do you find it?
+    * Seriously, where don't you?
 
 ## 2. Creating your own
 

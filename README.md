@@ -23,6 +23,7 @@ data.
     * The world is not flat
     * What is a projection?
     * Common projections and when to use them
+* Quick intro of QGIS to open data files.
 * Formats
     * CSV
     * SHP
@@ -30,19 +31,29 @@ data.
     * WKT/WKB
 * Where do you find it?
     * Seriously, where don't you?
+* Example: Open several files in QGIS and explore the options
 
 ## 2. Creating your own
 
 * Geocoding
+    * What is geocoding?
+    * Some geocoding services
+        * Google, Yahoo!, Bing, geocoder.ca, geocoder.us....
+    * Example: Batch geocode a list of restaurant addresses.
 * Merging data
+    * Example: Merging restaurant inspection grades to that list of restaurant addresses.
+    
 
 # II. Simple spatial analysis
 
 ## 3. Tools
 
-* PostGIS
 * QGIS
+    * The open-source GIS software of choice.
 * ArcGIS
+    * The commercial standard, if you have the cash. We will not use it.
+* PostGIS
+    * Do analysis quickly, though perhaps painfully. If you already know SQL, you might find this appealing.
 
 ## 4. Analysis: Buffers
 
@@ -69,10 +80,10 @@ data.
 * SVG
 * Tiles
 
-## 8. Example: Points on a map (quickly)
+## 8. Example: Points on a map
 
 ## 9. Example: Displaying shapes
 
 * Choropleth
 
-## 10. Example: Tilemill (if I can get to it)
+## 10. Example: Tilemill
